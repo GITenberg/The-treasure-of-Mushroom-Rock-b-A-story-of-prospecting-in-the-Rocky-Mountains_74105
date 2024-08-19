@@ -8,6 +8,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '34137'
     url: http://www.gutenberg.org/2009/agents/34137
+covers:
+- cover_type: archival
+  image_path: 74105-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Hamp, Sidford F. (Sidford Frederick)
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '32001'
     url: http://www.gutenberg.org/2009/agents/32001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74105#The-treasure-of-Mushroom-Rock-b-A-story-of-prospecting-in-the-Rocky-Mountains
 gutenberg_issued: '2024-07-23'
 gutenberg_type: Text
 identifiers:
